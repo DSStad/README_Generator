@@ -14,7 +14,8 @@ Dependencies
 
 To generate README.md files quickly from the command line. 
 
-<!-- include a screenshot and video clip link here  -->
+https://drive.google.com/file/d/1CNb4r6uvAgK40tBHJWZ0g4GkO-bsTZaC/view
+
 
 ## Credits 
 
